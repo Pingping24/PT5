@@ -60,9 +60,12 @@
 
   <div class="center">
     <button><a href="customer_list.php">Customer List</a></button>
-    <button><a href="order_list.php">order List</a></button>
-    <button><a href="product_list.php">product List</a></button>
-    <button><a href="order_details.php">order details List</a></button>
+    <button><a href="order_list.php">Order List</a></button>
+    <button><a href="product_list.php">Product List</a></button>
+    <button><a href="order_details.php">Order Details List</a></button>
+    <button><a href="place_order.php">Place Order</a></button>
+
+    <button><a href="view_orders.php">Order</a></button>
   </div>
 
 
